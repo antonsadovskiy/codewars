@@ -17,5 +17,4 @@ const quarterOf = (month) => {
         case 12:
           return 4
     }
-    
   }
