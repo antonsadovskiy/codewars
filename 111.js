@@ -1,1 +1,1 @@
-const areaLargestSquare = (r) => Math.pow((r * 2),2) / 2
+const areaLargestSquare = (r) => Math.pow((r * 2), 2) / 2
