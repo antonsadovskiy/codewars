@@ -5,4 +5,4 @@ function sayHello( name, city, state ) {
     }
     helloString += name[name.length - 1]
     return `${helloString}! Welcome to ${city}, ${state}!`
-  }
+}
